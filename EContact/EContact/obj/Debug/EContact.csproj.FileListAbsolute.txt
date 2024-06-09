@@ -1,0 +1,10 @@
+E:\dot net\EContact\EContact\bin\Debug\EContact.exe.config
+E:\dot net\EContact\EContact\bin\Debug\EContact.exe
+E:\dot net\EContact\EContact\bin\Debug\EContact.pdb
+E:\dot net\EContact\EContact\obj\Debug\EContact.csproj.AssemblyReference.cache
+E:\dot net\EContact\EContact\obj\Debug\EContact.Properties.Resources.resources
+E:\dot net\EContact\EContact\obj\Debug\EContact.csproj.GenerateResource.cache
+E:\dot net\EContact\EContact\obj\Debug\EContact.csproj.CoreCompileInputs.cache
+E:\dot net\EContact\EContact\obj\Debug\EContact.exe
+E:\dot net\EContact\EContact\obj\Debug\EContact.pdb
+E:\dot net\EContact\EContact\obj\Debug\EContact.Econtact.resources
