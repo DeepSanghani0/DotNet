@@ -1,0 +1,12 @@
+C:\Users\deeps\source\repos\Project1\bin\Debug\Project1.exe.config
+C:\Users\deeps\source\repos\Project1\bin\Debug\Project1.exe
+C:\Users\deeps\source\repos\Project1\bin\Debug\Project1.pdb
+C:\Users\deeps\source\repos\Project1\obj\Debug\Project1.csproj.AssemblyReference.cache
+C:\Users\deeps\source\repos\Project1\obj\Debug\Project1.Form1.resources
+C:\Users\deeps\source\repos\Project1\obj\Debug\Project1.Login.resources
+C:\Users\deeps\source\repos\Project1\obj\Debug\Project1.Properties.Resources.resources
+C:\Users\deeps\source\repos\Project1\obj\Debug\Project1.csproj.GenerateResource.cache
+C:\Users\deeps\source\repos\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
+C:\Users\deeps\source\repos\Project1\obj\Debug\Project1.exe
+C:\Users\deeps\source\repos\Project1\obj\Debug\Project1.pdb
+C:\Users\deeps\source\repos\Project1\obj\Debug\Project1.product.resources
